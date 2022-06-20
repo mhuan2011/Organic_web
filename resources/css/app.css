@@ -1,0 +1,49 @@
+.upload-list-inline .ant-upload-list-item {
+    float: left;
+    width: 200px;
+    margin-right: 8px;
+}
+
+.upload-list-inline [class*="-upload-list-rtl"] .ant-upload-list-item {
+    float: right;
+}
+
+.bg-qlns {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.bg-qlns {
+    background: url("https://static.vecteezy.com/system/resources/previews/002/130/221/original/vegetables-background-vector.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+.btn-display {
+    cursor: pointer;
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.site-result-demo-error-icon {
+    color: red;
+  }

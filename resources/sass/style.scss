@@ -1,0 +1,59 @@
+
+// anticon
+.anticon svg{
+    vertical-align: baseline;
+}
+.ant-form-item-label > label{
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.site-page-header{
+    padding: 0px !important;
+    .ant-avatar-icon{
+        background: transparent;
+        color: #001529;
+    }
+    .ant-page-header-content{
+        padding-top: 0;
+    }
+}
+.pd-0{
+    .ant-card-body{
+        padding: 0 !important;
+    }
+}
+//
+.mg-t-8{
+    margin-top: 8px;
+} 
+.mg-t-16{
+    margin-top: 16px;
+}
+.pd-24{
+    padding: 24px;
+}
+.pd-x-24{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.pd-y-12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.pd-t-12{
+    padding-top: 12px;
+}
+.pd-b-12{
+    padding-bottom: 12px;
+}
+.tx-center{
+    text-align: center;
+}
+.tx-gray-600{
+    color: #868e96 !important;
+}
+.spaceBetween{
+    width: 100%;
+    justify-content: space-between;
+}
+
